@@ -17,4 +17,4 @@ You can find the page mockup [here](https://www.figma.com/file/nHz8bflIwJaWP3P99
 
 # Demo
 
-The demo of the page is located [here](https://denys-anosov.github.io/layout_miami/).
+The demo of the page is located [here](https://denys-anosov.github.io/landing_page_miami/).
